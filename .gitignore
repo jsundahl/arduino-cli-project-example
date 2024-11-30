@@ -1,0 +1,7 @@
+build/
+debug.cfg
+debug_custom.json
+esp32.svd
+esp32s3.svd
+screenlog.0
+creds.h
